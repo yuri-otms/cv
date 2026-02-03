@@ -8,7 +8,8 @@ key | value
 住所| 栃木県宇都宮市
 年齢 | 40歳（1985生まれ）
 ポートフォリオ |  [サクッと作文　韓国語](https://github.com/yuri-otms/sksk_ko) （平易な韓国語作文の勉強Webアプリです。）
-
+Qiita | https://qiita.com/yuri_t
+GitHub | https://github.com/yuri-otms
 
 ## 経歴
 
